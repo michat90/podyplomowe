@@ -1,5 +1,6 @@
 public class Project1 {
     public static void main(String[] args) {
+        // pierwszy projekt
         System.out.println("tutaj bedzie projekt nr 1");
         int a =3;
         if (a <= 2){
